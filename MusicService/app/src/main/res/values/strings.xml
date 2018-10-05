@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicService</string>
+    <string-array
+        name="song_titles">
+        <item
+            >Bad News</item>
+        <item>Chad Crouch</item>
+        <item>Podington</item>
+    </string-array>
+</resources>
