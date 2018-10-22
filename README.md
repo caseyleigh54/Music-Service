@@ -1,5 +1,5 @@
-#Music-Service-Client-Application
-
+##Music-Service-Client-Application
+#
 The first app, named Music Service stores a number of audio clips,
 such as songs or other recordings. The clips are numbered 1 through n, where n is the total number of clips.
 The app contains a service intended to be bound (as opposed to started), which exposes an API for clients
